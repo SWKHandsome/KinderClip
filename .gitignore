@@ -1,0 +1,26 @@
+# Python and test artefacts
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+.venv/
+venv/
+.testdeps/
+
+# KinderClip runtime media and generated artefacts
+projects/
+workspace/
+cache/
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.wav
+*.mp3
+render_log.txt
+final_video.mp4
+*.tmp
+
+# Streamlit
+.streamlit/secrets.toml
