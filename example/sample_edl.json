@@ -1,0 +1,20 @@
+{
+  "product": "KinderClip",
+  "version": 1,
+  "project": {"name": "Graduation Demo", "ceremony_duration": 90.0, "main_camera_id": "front_left"},
+  "segments": [
+    {
+      "id": "segment-001",
+      "analysis_start": 0.0,
+      "analysis_end": 10.0,
+      "start": 0.0,
+      "end": 10.0,
+      "recommended_camera": "front_left",
+      "selected_camera": "front_left",
+      "recommendation_reason": "Highest technical score",
+      "decision_source": "highest_score",
+      "transition": "Cut",
+      "review_status": "reviewed"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "product": "KinderClip",
+  "duration_seconds": 90.0,
+  "windows": [{"start": 0.0, "end": 10.0}],
+  "cameras": {
+    "front_left": {"available": true, "windows": [{"technical_score": 76.4, "black_frame": false}]},
+    "wide_back": {"available": true, "windows": [{"technical_score": 68.1, "black_frame": false}]}
+  }
+}

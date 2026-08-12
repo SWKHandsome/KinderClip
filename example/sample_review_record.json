@@ -1,0 +1,9 @@
+{
+  "product": "KinderClip",
+  "approved": false,
+  "master_audio_camera": "wide_back",
+  "silent_export": false,
+  "override_count": 0,
+  "boundary_adjustment_count": 0,
+  "validation": {"valid": false, "issues": ["Example record only"]}
+}
